@@ -17,7 +17,7 @@ MESSAGE_TAGS = {
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 if DEBUG:
     from .dev_settings import *
