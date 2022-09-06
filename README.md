@@ -1,6 +1,6 @@
 # OnamBoard
 
-This webapp can be used as score board for smaller programs
+This webapp can be used as score board for smaller programs. It will a great choice to handle score board easily for various onam programs efficiently and faster
 
 ## Team members
 
