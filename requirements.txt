@@ -24,4 +24,5 @@ sqlparse==0.4.2
 Twisted==22.4.0
 txaio==22.2.1
 typing_extensions==4.3.0
+whitenoise
 zope.interface==5.4.0
